@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/agenda/static/css/main.7b0d9d6a.chunk.css",
+    "main.js": "/agenda/static/js/main.ef216dc0.chunk.js",
+    "main.js.map": "/agenda/static/js/main.ef216dc0.chunk.js.map",
+    "runtime-main.js": "/agenda/static/js/runtime-main.e86e7a53.js",
+    "runtime-main.js.map": "/agenda/static/js/runtime-main.e86e7a53.js.map",
+    "static/js/2.adcfa7d5.chunk.js": "/agenda/static/js/2.adcfa7d5.chunk.js",
+    "static/js/2.adcfa7d5.chunk.js.map": "/agenda/static/js/2.adcfa7d5.chunk.js.map",
+    "index.html": "/agenda/index.html",
+    "static/css/main.7b0d9d6a.chunk.css.map": "/agenda/static/css/main.7b0d9d6a.chunk.css.map",
+    "static/js/2.adcfa7d5.chunk.js.LICENSE.txt": "/agenda/static/js/2.adcfa7d5.chunk.js.LICENSE.txt",
+    "static/media/Agenda.css": "/agenda/static/media/numeros.bbbd10ed.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e86e7a53.js",
+    "static/js/2.adcfa7d5.chunk.js",
+    "static/css/main.7b0d9d6a.chunk.css",
+    "static/js/main.ef216dc0.chunk.js"
+  ]
+}
